@@ -1,0 +1,8 @@
+{
+  "name": "Sample Item",
+  "description": "This is a sample item.",
+  "category": {
+    "id": 1,
+    "name": "Electronics"
+  }
+}
