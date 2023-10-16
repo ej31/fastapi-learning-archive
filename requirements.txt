@@ -1,3 +1,7 @@
-mysqlclient
-fastapi
+mysqlclient~=2.2.0
+fastapi~=0.103.2
 uvicorn[standard]
+pydantic~=2.4.2
+starlette~=0.27.0
+requests~=2.31.0
+selenium~=4.14.0
